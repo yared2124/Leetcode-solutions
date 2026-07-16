@@ -15,8 +15,8 @@ Welcome to my central hub for daily algorithmic problem-solving! This repository
 Solutions are organized by difficulty or topic:
 ```text
 ├── Easy/
-│   ├── 0001-two-sum.js
-│   └── 0020-valid-parentheses.js
+│   ├── 1-two-sum.js
+│   └── 20-valid-parentheses.js
 ├── Medium/
-│   └── 0003-longest-substring-without-repeating-characters.js
+│   └── 3-longest-substring-without-repeating-characters.js
 └── Hard/
